@@ -1,4 +1,6 @@
 # tutorial
 primer1 repositorio
 
-Esta liniad de texto representa el primer commit con github
+Este  texto representa el primer commit con github
+
+Este texto representa el segundo commit con github 
