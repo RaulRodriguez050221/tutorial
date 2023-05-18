@@ -6,3 +6,5 @@ Este  texto representa el primer commit con github
 Este texto representa el segundo commit con github 
 
 Este texto es el tercer commit y fue generado por gitDesktop
+
+Este texto corresponde  al control de versiooones cpn VSC
